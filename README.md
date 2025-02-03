@@ -1,7 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=600&lines=Yadro+Winter+School+2025)](https://git.io/typing-svg)
 This repository contains some pet-projects and material from Yadro Winter School 2025: optimizations for dense matrices on GPU. It supports cross-platform building with meson. 
 
-### Prerequisites
+# Prerequisites
 This is a list of modules required to launch the project:
 * Meson
 * OpenCL
