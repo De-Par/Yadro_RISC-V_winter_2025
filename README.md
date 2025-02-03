@@ -20,3 +20,13 @@ This will configure the Meson and will generate platform-specific build files. T
 ```bash
 ./vecsum
 ```
+
+# Useful links
+Use this space to list resources with articles and projects you find helpful and would like to give credit to:
+
+* [Articles](https://github.com/YaccConstructor/articles)
+* [Vortex](https://github.com/vortexgpgpu/vortex)
+* [myGEMM](https://github.com/cnugteren/myGEMM)
+* [spla](https://github.com/SparseLinearAlgebra/spla)
+* [graph-bench](https://github.com/SparseLinearAlgebra/graph-bench)
+* [Semyon](https://github.com/gsvgit)
